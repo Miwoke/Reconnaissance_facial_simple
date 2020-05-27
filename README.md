@@ -1,4 +1,4 @@
-Pour utiliser ce script il faut installer OpenCV :
+Pour utiliser ce script, installer OpenCV :
 
 - py -m pip install opencv-contrib-python
 
